@@ -22,9 +22,9 @@ namespace EntityLayer.Concrete
 
         public virtual Heading Heading { get; set;}
 
-        public int WriterID { get; set; }
+      //  public int WriterID { get; set; }
 
-        public virtual Writer Writer { get; set; }
+        // public virtual Writer Writer { get; set; }
 
 
     }

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EntityLayer",
+    "\\EntityLayer\\Concrete"
   ],
-  "SelectedNode": "\\mvc-projecet.sln",
+  "SelectedNode": "\\EntityLayer\\Concrete\\Writer.cs",
   "PreviewInSolutionExplorer": false
 }
