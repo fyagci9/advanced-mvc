@@ -13,3 +13,5 @@ C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.csp
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
