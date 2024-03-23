@@ -1,4 +1,6 @@
-﻿using System;
+﻿using BussinesLayer.Concrete;
+using EntityLayer.Concrete;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -9,9 +11,17 @@ namespace mvc_projecet.Controllers
     public class CategoryController : Controller
     {
         // GET: Category
+        CategoryManager cm = new CategoryManager();
         public ActionResult Index()
         {
             return View();
+        }
+
+        public ActionResult GetCategoryList()
+        {
+            var categoryValues = cm.GetAllBL();
+            return View(categoryValues);
+
         }
     }
 }

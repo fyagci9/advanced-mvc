@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\BussinesLayer",
+    "\\BussinesLayer\\Concrete",
     "\\EntityLayer",
-    "\\EntityLayer\\Concrete"
+    "\\EntityLayer\\Concrete",
+    "\\mvc-projecet",
+    "\\mvc-projecet\\Views",
+    "\\mvc-projecet\\Views\\Category"
   ],
-  "SelectedNode": "\\mvc-projecet.sln",
+  "SelectedNode": "\\mvc-projecet\\Views\\Category\\GetCategoryList.cshtml",
   "PreviewInSolutionExplorer": false
 }

@@ -77,3 +77,16 @@ C:\Users\firat\Desktop\mvc-project\mvc-projecet\obj\Debug\mvc-project.csproj.Cor
 C:\Users\firat\Desktop\mvc-project\mvc-projecet\obj\Debug\mvc-project.csproj.CopyComplete
 C:\Users\firat\Desktop\mvc-project\mvc-projecet\obj\Debug\mvc-projecet.dll
 C:\Users\firat\Desktop\mvc-project\mvc-projecet\obj\Debug\mvc-projecet.pdb
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\BussinesLayer.dll
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\DataAccessLayer.dll
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\EntityLayer.dll
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\EntityFramework.dll
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\BussinesLayer.pdb
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\BussinesLayer.dll.config
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\DataAccessLayer.pdb
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\DataAccessLayer.dll.config
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\EntityLayer.pdb
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\EntityLayer.dll.config
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\EntityFramework.xml
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\EntityFramework.SqlServer.dll
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\EntityFramework.SqlServer.xml
