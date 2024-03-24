@@ -23,5 +23,18 @@ namespace mvc_projecet.Controllers
             return View(categoryValues);
 
         }
+        [HttpGet]
+        public ActionResult AddCategory()
+        {
+            return View();
+
+        }
+
+        [HttpPost]
+        public  ActionResult AddCategory(Category p)
+        {
+            cm.CategoryAddBL(p);
+            return RedirectToAction("GetCategoryList");
+        }
     }
 }
