@@ -10,8 +10,8 @@ C:\Users\firat\Desktop\mvc-project\DataAccessLayer\bin\Debug\EntityFramework.xml
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
-C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date

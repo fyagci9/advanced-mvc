@@ -7,6 +7,6 @@ C:\Users\firat\Desktop\mvc-project\EntityLayer\bin\Debug\EntityFramework.xml
 C:\Users\firat\Desktop\mvc-project\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\firat\Desktop\mvc-project\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
 C:\Users\firat\Desktop\mvc-project\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
-C:\Users\firat\Desktop\mvc-project\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
 C:\Users\firat\Desktop\mvc-project\EntityLayer\obj\Debug\EntityLayer.dll
 C:\Users\firat\Desktop\mvc-project\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\firat\Desktop\mvc-project\EntityLayer\obj\Debug\EntityLa.DA06A3F2.Up2Date

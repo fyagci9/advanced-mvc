@@ -62,6 +62,12 @@
     <Compile Include="Concrete\Repositories\CategoryRepository.cs" />
     <Compile Include="Concrete\Repositories\GenericRepository.cs" />
     <Compile Include="Concrete\Repositories\WriterRepository.cs" />
+    <Compile Include="EntitiyFramework\EfAboutDal.cs" />
+    <Compile Include="EntitiyFramework\EfCategoryDal.cs" />
+    <Compile Include="EntitiyFramework\EfContactDal.cs" />
+    <Compile Include="EntitiyFramework\EfContentDal.cs" />
+    <Compile Include="EntitiyFramework\EfHeadingDal.cs" />
+    <Compile Include="EntitiyFramework\EfWriterDal.cs" />
     <Compile Include="Migrations\202403202033363_mig1.cs" />
     <Compile Include="Migrations\202403202033363_mig1.designer.cs">
       <DependentUpon>202403202033363_mig1.cs</DependentUpon>
@@ -84,9 +90,7 @@
       <DependentUpon>202403202033363_mig1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="EntitiyFramework\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
