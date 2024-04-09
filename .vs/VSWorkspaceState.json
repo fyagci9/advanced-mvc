@@ -6,8 +6,9 @@
     "\\mvc-projecet",
     "\\mvc-projecet\\Controllers",
     "\\mvc-projecet\\Views",
+    "\\mvc-projecet\\Views\\AdminCategory",
     "\\mvc-projecet\\Views\\Category"
   ],
-  "SelectedNode": "\\mvc-projecet\\Controllers\\CategoryController.cs",
+  "SelectedNode": "\\mvc-projecet\\Views\\AdminCategory\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
