@@ -20,9 +20,24 @@ namespace BussinesLayer.Concrete
             _categoryDal = categoryDal;
         }
 
-        public void CategoryAddBL(Category category)
+        public void categoryAdd(Category category)
         {
             _categoryDal.Insert(category);
+        }
+
+        public void categoryDelete(Category category)
+        {
+            _categoryDal.Delete(category);
+        }
+
+        public void categoryUpdate(Category category)
+        {
+            _categoryDal.Update(category);
+        }
+
+        public Category GetByID(int id)
+        {
+           return _categoryDal.Get(x=>x.CategoryID == id);
         }
 
         public List<Category> GetList()

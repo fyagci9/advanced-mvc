@@ -43,7 +43,7 @@ namespace mvc_projecet.Controllers
            
             if (results.IsValid)
             {
-                cm.CategoryAddBL(p);
+                cm.categoryAdd(p);
                 return RedirectToAction("GetCategoryList");
 
             }
@@ -59,5 +59,7 @@ namespace mvc_projecet.Controllers
             return View();  
            
         }
+
+       
     }
 }
