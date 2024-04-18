@@ -29,7 +29,7 @@ namespace mvc_projecet.Controllers
 
         public ActionResult Test()
         {
-            return View();  
+            return View();
         }
     }
 }

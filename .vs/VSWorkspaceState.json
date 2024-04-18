@@ -9,6 +9,6 @@
     "\\mvc-projecet\\Views\\AdminCategory",
     "\\mvc-projecet\\Views\\Category"
   ],
-  "SelectedNode": "\\mvc-projecet\\Views\\AdminCategory\\AddCategory.cshtml",
+  "SelectedNode": "\\mvc-projecet\\Controllers\\istatistikController.cs",
   "PreviewInSolutionExplorer": false
 }

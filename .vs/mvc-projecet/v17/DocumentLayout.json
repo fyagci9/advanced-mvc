@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\firat\\Desktop\\mvc-project\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E30CAAE-1890-47CC-9204-01C082ECD9FA}|BussinesLayer\\BussinesLayer.csproj|c:\\users\\firat\\desktop\\mvc-project\\bussineslayer\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E30CAAE-1890-47CC-9204-01C082ECD9FA}|BussinesLayer\\BussinesLayer.csproj|solutionrelative:bussineslayer\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E30CAAE-1890-47CC-9204-01C082ECD9FA}|BussinesLayer\\BussinesLayer.csproj|c:\\users\\firat\\desktop\\mvc-project\\bussineslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E30CAAE-1890-47CC-9204-01C082ECD9FA}|BussinesLayer\\BussinesLayer.csproj|solutionrelative:bussineslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\views\\admincategory\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\views\\admincategory\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,69 +36,8 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\BussinesLayer\\Abstract\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "BussinesLayer\\Abstract\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\BussinesLayer\\Abstract\\ICategoryService.cs",
-              "RelativeToolTip": "BussinesLayer\\Abstract\\ICategoryService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T17:21:41.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminCategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\AdminCategoryController.cs",
-              "RelativeDocumentMoniker": "mvc-projecet\\Controllers\\AdminCategoryController.cs",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\AdminCategoryController.cs",
-              "RelativeToolTip": "mvc-projecet\\Controllers\\AdminCategoryController.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAkwBAAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T17:39:27.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\AdminCategory\\Index.cshtml",
-              "RelativeDocumentMoniker": "mvc-projecet\\Views\\AdminCategory\\Index.cshtml",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\AdminCategory\\Index.cshtml",
-              "RelativeToolTip": "mvc-projecet\\Views\\AdminCategory\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-14T12:41:37.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryManager.cs",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\BussinesLayer\\Concrete\\CategoryManager.cs",
-              "RelativeDocumentMoniker": "BussinesLayer\\Concrete\\CategoryManager.cs",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\BussinesLayer\\Concrete\\CategoryManager.cs",
-              "RelativeToolTip": "BussinesLayer\\Concrete\\CategoryManager.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T17:35:23.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EditCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\AdminCategory\\EditCategory.cshtml",
-              "RelativeDocumentMoniker": "mvc-projecet\\Views\\AdminCategory\\EditCategory.cshtml",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\AdminCategory\\EditCategory.cshtml",
-              "RelativeToolTip": "mvc-projecet\\Views\\AdminCategory\\EditCategory.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-14T17:42:44.334Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
