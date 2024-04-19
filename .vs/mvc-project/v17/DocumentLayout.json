@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\firat\\Desktop\\mvc-project\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\views\\writer\\addwriter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\views\\writer\\addwriter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\views\\writer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\views\\writer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E30CAAE-1890-47CC-9204-01C082ECD9FA}|BussinesLayer\\BussinesLayer.csproj|c:\\users\\firat\\desktop\\mvc-project\\bussineslayer\\concrete\\writermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E30CAAE-1890-47CC-9204-01C082ECD9FA}|BussinesLayer\\BussinesLayer.csproj|solutionrelative:bussineslayer\\concrete\\writermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E30CAAE-1890-47CC-9204-01C082ECD9FA}|BussinesLayer\\BussinesLayer.csproj|c:\\users\\firat\\desktop\\mvc-project\\bussineslayer\\validationrules\\writervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E30CAAE-1890-47CC-9204-01C082ECD9FA}|BussinesLayer\\BussinesLayer.csproj|solutionrelative:bussineslayer\\validationrules\\writervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +59,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddWriter.cshtml",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Writer\\AddWriter.cshtml",
+              "RelativeDocumentMoniker": "mvc-projecet\\Views\\Writer\\AddWriter.cshtml",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Writer\\AddWriter.cshtml",
+              "RelativeToolTip": "mvc-projecet\\Views\\Writer\\AddWriter.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T20:40:33.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Writer\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc-projecet\\Views\\Writer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Writer\\Index.cshtml",
+              "RelativeToolTip": "mvc-projecet\\Views\\Writer\\Index.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAACoAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T19:30:52.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WriterController.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\WriterController.cs",
+              "RelativeDocumentMoniker": "mvc-projecet\\Controllers\\WriterController.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\WriterController.cs",
+              "RelativeToolTip": "mvc-projecet\\Controllers\\WriterController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:27:41.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WriterManager.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\BussinesLayer\\Concrete\\WriterManager.cs",
+              "RelativeDocumentMoniker": "BussinesLayer\\Concrete\\WriterManager.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\BussinesLayer\\Concrete\\WriterManager.cs",
+              "RelativeToolTip": "BussinesLayer\\Concrete\\WriterManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:16:20.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WriterValidator.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\BussinesLayer\\ValidationRules\\WriterValidator.cs",
+              "RelativeDocumentMoniker": "BussinesLayer\\ValidationRules\\WriterValidator.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\BussinesLayer\\ValidationRules\\WriterValidator.cs",
+              "RelativeToolTip": "BussinesLayer\\ValidationRules\\WriterValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:18:13.594Z",
+              "EditorCaption": ""
             }
           ]
         }

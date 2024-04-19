@@ -1,0 +1,12 @@
+C:\Users\firat\Desktop\mvc-project\EntityLayer\bin\Release\EntityLayer.dll.config
+C:\Users\firat\Desktop\mvc-project\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\firat\Desktop\mvc-project\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\firat\Desktop\mvc-project\EntityLayer\bin\Release\EntityFramework.dll
+C:\Users\firat\Desktop\mvc-project\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\firat\Desktop\mvc-project\EntityLayer\bin\Release\EntityFramework.xml
+C:\Users\firat\Desktop\mvc-project\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\firat\Desktop\mvc-project\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\mvc-project\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\mvc-project\EntityLayer\obj\Release\EntityLa.DA06A3F2.Up2Date
+C:\Users\firat\Desktop\mvc-project\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\firat\Desktop\mvc-project\EntityLayer\obj\Release\EntityLayer.pdb

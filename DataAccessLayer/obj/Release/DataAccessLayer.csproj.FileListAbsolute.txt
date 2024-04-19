@@ -1,0 +1,17 @@
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\bin\Release\EntityFramework.dll
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\bin\Release\EntityLayer.dll
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\bin\Release\EntityLayer.pdb
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\bin\Release\EntityLayer.dll.config
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\bin\Release\EntityFramework.xml
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.mig1.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAcce.E67BD773.Up2Date
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.pdb

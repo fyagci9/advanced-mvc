@@ -20,27 +20,28 @@ namespace BussinesLayer.Concrete
 
         public Writer GetByID(int id)
         {
-            throw new NotImplementedException();
+            return _writerDal.Get(x=>x.WriterID == id);
         }
 
         public List<Writer> GetList()
         {
-            throw new NotImplementedException();
+            return _writerDal.List();
         }
 
         public void writerAdd(Writer writer)
         {
-            throw new NotImplementedException();
+             _writerDal.Insert(writer);
         }
 
         public void writerDelete(Writer writer)
         {
-            throw new NotImplementedException();
+            _writerDal.Delete(writer);
+            
         }
 
         public void writerUpdate(Writer writer)
         {
-            throw new NotImplementedException();
+           _writerDal.Update(writer);
         }
     }
 }
