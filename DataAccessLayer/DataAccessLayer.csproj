@@ -72,9 +72,13 @@
     <Compile Include="Migrations\202403202033363_mig1.designer.cs">
       <DependentUpon>202403202033363_mig1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202404192012217_mig_writer_edit.cs" />
-    <Compile Include="Migrations\202404192012217_mig_writer_edit.Designer.cs">
-      <DependentUpon>202404192012217_mig_writer_edit.cs</DependentUpon>
+    <Compile Include="Migrations\202404202029046_mig_writer_edit.cs" />
+    <Compile Include="Migrations\202404202029046_mig_writer_edit.Designer.cs">
+      <DependentUpon>202404202029046_mig_writer_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202404211507588_mig_writertitle_add.cs" />
+    <Compile Include="Migrations\202404211507588_mig_writertitle_add.Designer.cs">
+      <DependentUpon>202404211507588_mig_writertitle_add.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -93,8 +97,11 @@
     <EmbeddedResource Include="Migrations\202403202033363_mig1.resx">
       <DependentUpon>202403202033363_mig1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202404192012217_mig_writer_edit.resx">
-      <DependentUpon>202404192012217_mig_writer_edit.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202404202029046_mig_writer_edit.resx">
+      <DependentUpon>202404202029046_mig_writer_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202404211507588_mig_writertitle_add.resx">
+      <DependentUpon>202404211507588_mig_writertitle_add.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />

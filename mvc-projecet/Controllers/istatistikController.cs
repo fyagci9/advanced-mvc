@@ -10,7 +10,7 @@ using System.Web.Mvc;
 
 namespace mvc_project.Controllers
 {
-    public class istatistikController : Controller
+    public class IstatistikController : Controller
     {
         // GET: istatistik
         CategoryManager cm = new CategoryManager(new EfCategoryDal());

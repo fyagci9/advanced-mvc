@@ -7,7 +7,8 @@
     "\\mvc-projecet\\Controllers",
     "\\mvc-projecet\\Views",
     "\\mvc-projecet\\Views\\AdminCategory",
-    "\\mvc-projecet\\Views\\Category"
+    "\\mvc-projecet\\Views\\Category",
+    "\\mvc-projecet\\Views\\Writer"
   ],
   "SelectedNode": "\\mvc-project.sln",
   "PreviewInSolutionExplorer": false
