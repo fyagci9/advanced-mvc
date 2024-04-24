@@ -17,3 +17,5 @@ C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.csp
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_statusadd.resources

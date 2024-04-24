@@ -16,17 +16,16 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1>Projects</h1>
                 </div>
             </div>
-        </div><!-- /.container-fluid -->
+        </div>
     </section>
     <!-- Main content -->
     <section class="content">
         <!-- Default box -->
         <div class="card">
             <div class="card-header">
-                <h3 class="card-title">Proje İşlemleri</h3>
+                <h3 class="card-title">Başlık İşlemleri</h3>
                 <div class="card-tools">
                     <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
                         <i class="fas fa-minus"></i>
@@ -59,11 +58,11 @@
                     <tbody>
                         @foreach (var item in Model)
                         {
-                            if (item.Category.CategoryName == "yazılım")
+                            if (item.Category.CategoryName == "Spor")
                             {
                                 color = "badge badge-success";
                             }
-                            if (item.Category.CategoryName == "Spor")
+                            if (item.Category.CategoryName == "Yazılım")
                             {
                                 color = "badge badge-warning";
                             }
@@ -85,13 +84,13 @@
                                 </a>
                                 <br />
                                 <small>
-                                    @item.HeadingDate
+                                    @(((DateTime)item.HeadingDate).ToString("dd-MMM-yyyy"))
                                 </small>
                             </td>
                             <td>
                                 <ul class="list-inline">
                                     <li class="list-inline-item">
-                                        <img alt="Avatar" class="table-avatar" src="~/AdminLTE-3.0.4/dist/img/pp.jpg">
+                                        <img alt="Avatar" class="table-avatar" src="@item.Writer.WriterImage">
                                     </li>
                                 </ul>
                             </td>
@@ -99,7 +98,7 @@
                                 <span class="@color">@item.Category.CategoryName</span>
                             </td>
                             <td class="project-actions text-right">
-                                <a class="btn btn-primary btn-sm" href="#">
+                                <a class="btn btn-primary btn-sm" href="/Content/ContentByHeading/@item.HeadingID">
                                     <i class="fas fa-folder">
                                     </i>
                                     Yazılar
@@ -126,8 +125,8 @@
     </section>
 </body>
 </html>
-
-
+<a href="/Heading/AddHeading" class="btn btn-primary"> Yeni Başlık Girişi</a>
+ 
 @*<h2>Başlık Sayfası</h2>
     <br />
 

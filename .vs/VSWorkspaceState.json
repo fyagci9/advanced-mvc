@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\mvc-projecet",
-    "\\mvc-projecet\\Controllers"
+    "\\mvc-projecet\\Controllers",
+    "\\mvc-projecet\\Views",
+    "\\mvc-projecet\\Views\\Heading"
   ],
-  "SelectedNode": "\\mvc-projecet\\Controllers\\IstatistikController.cs",
+  "SelectedNode": "\\mvc-project.sln",
   "PreviewInSolutionExplorer": false
 }

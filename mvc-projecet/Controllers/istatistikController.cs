@@ -25,7 +25,7 @@ namespace mvc_project.Controllers
             ViewBag.CatCount = CatCount;
 
             //yazılım başlığı kategorisi
-            var softwareCategory = cm.GetList().FirstOrDefault(x=>x.CategoryName=="yazılım");
+            var softwareCategory = cm.GetList().FirstOrDefault(x=>x.CategoryName=="Yazılım");
             var softwareHeadingCount = hm.GetList().Count(x => x.CategoryID == softwareCategory.CategoryID);
             ViewBag.SoftwareHeadingCount = softwareHeadingCount;
 
