@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\firat\\Desktop\\mvc-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\views\\heading\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\views\\heading\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\views\\content\\contentbyheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\views\\content\\contentbyheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\views\\heading\\contentbyheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\views\\heading\\contentbyheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E30CAAE-1890-47CC-9204-01C082ECD9FA}|BussinesLayer\\BussinesLayer.csproj|c:\\users\\firat\\desktop\\mvc-project\\bussineslayer\\concrete\\contentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E30CAAE-1890-47CC-9204-01C082ECD9FA}|BussinesLayer\\BussinesLayer.csproj|solutionrelative:bussineslayer\\concrete\\contentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\views\\content\\contentbyheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\views\\content\\contentbyheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\controllers\\headingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\controllers\\headingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E30CAAE-1890-47CC-9204-01C082ECD9FA}|BussinesLayer\\BussinesLayer.csproj|c:\\users\\firat\\desktop\\mvc-project\\bussineslayer\\abstract\\icontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E30CAAE-1890-47CC-9204-01C082ECD9FA}|BussinesLayer\\BussinesLayer.csproj|solutionrelative:bussineslayer\\abstract\\icontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,60 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContentByHeading.cshtml",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Content\\ContentByHeading.cshtml",
-              "RelativeDocumentMoniker": "mvc-projecet\\Views\\Content\\ContentByHeading.cshtml",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Content\\ContentByHeading.cshtml",
-              "RelativeToolTip": "mvc-projecet\\Views\\Content\\ContentByHeading.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T19:26:39.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContentController.cs",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\ContentController.cs",
-              "RelativeDocumentMoniker": "mvc-projecet\\Controllers\\ContentController.cs",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\ContentController.cs",
-              "RelativeToolTip": "mvc-projecet\\Controllers\\ContentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T19:25:57.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContentByHeading.cshtml",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Heading\\ContentByHeading.cshtml",
-              "RelativeDocumentMoniker": "mvc-projecet\\Views\\Heading\\ContentByHeading.cshtml",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Heading\\ContentByHeading.cshtml",
-              "RelativeToolTip": "mvc-projecet\\Views\\Heading\\ContentByHeading.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T19:21:16.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HeadingController.cs",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\HeadingController.cs",
-              "RelativeDocumentMoniker": "mvc-projecet\\Controllers\\HeadingController.cs",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\HeadingController.cs",
-              "RelativeToolTip": "mvc-projecet\\Controllers\\HeadingController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAYwDcAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T19:19:40.527Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -115,14 +59,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Heading\\Index.cshtml",
-              "RelativeDocumentMoniker": "mvc-projecet\\Views\\Heading\\Index.cshtml",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Heading\\Index.cshtml",
-              "RelativeToolTip": "mvc-projecet\\Views\\Heading\\Index.cshtml",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAAAFQAAAATAAAA",
+              "Title": "ContentByHeading.cshtml",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Content\\ContentByHeading.cshtml",
+              "RelativeDocumentMoniker": "mvc-projecet\\Views\\Content\\ContentByHeading.cshtml",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Content\\ContentByHeading.cshtml",
+              "RelativeToolTip": "mvc-projecet\\Views\\Content\\ContentByHeading.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T14:25:14.584Z",
+              "WhenOpened": "2024-04-25T19:57:11.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContentManager.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\BussinesLayer\\Concrete\\ContentManager.cs",
+              "RelativeDocumentMoniker": "BussinesLayer\\Concrete\\ContentManager.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\BussinesLayer\\Concrete\\ContentManager.cs",
+              "RelativeToolTip": "BussinesLayer\\Concrete\\ContentManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:41:47.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IContentService.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\BussinesLayer\\Abstract\\IContentService.cs",
+              "RelativeDocumentMoniker": "BussinesLayer\\Abstract\\IContentService.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\BussinesLayer\\Abstract\\IContentService.cs",
+              "RelativeToolTip": "BussinesLayer\\Abstract\\IContentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:37:50.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "mvc-projecet\\Controllers\\ContentController.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "mvc-projecet\\Controllers\\ContentController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:25:57.938Z",
               "EditorCaption": ""
             }
           ]

@@ -4,8 +4,9 @@
     "\\mvc-projecet",
     "\\mvc-projecet\\Controllers",
     "\\mvc-projecet\\Views",
+    "\\mvc-projecet\\Views\\Content",
     "\\mvc-projecet\\Views\\Heading"
   ],
-  "SelectedNode": "\\mvc-project.sln",
+  "SelectedNode": "\\mvc-projecet\\Controllers\\ContentController.cs",
   "PreviewInSolutionExplorer": false
 }
