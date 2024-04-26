@@ -19,3 +19,5 @@ C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Mig
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_statusadd.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addcontentstaus.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addheadingstaus.resources
