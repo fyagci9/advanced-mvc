@@ -70,7 +70,20 @@ namespace mvc_project.Controllers
             return  View(headingValues);
 
         }
-
-       
+        [HttpPost]
+        public ActionResult EditHeading(Heading p)
+        {
+            hm.headingUpdate(p);
+            return RedirectToAction("Index");
+        }
+        public ActionResult DeleteHeading(int id) 
+        {
+            var HeadingValue = hm.GetByID(id);
+            HeadingValue.HeadingStatus = false;
+            hm.headingDelete(HeadingValue);
+            return RedirectToAction("Index");
+            
+            
+        }
     }
 }
