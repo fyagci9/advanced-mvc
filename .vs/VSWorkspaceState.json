@@ -4,6 +4,7 @@
     "\\mvc-projecet",
     "\\mvc-projecet\\Controllers",
     "\\mvc-projecet\\Views",
+    "\\mvc-projecet\\Views\\AdminCategory",
     "\\mvc-projecet\\Views\\Content",
     "\\mvc-projecet\\Views\\Heading"
   ],
