@@ -96,6 +96,10 @@
     <Compile Include="Migrations\202404261928302_mig_addheadingstaus.Designer.cs">
       <DependentUpon>202404261928302_mig_addheadingstaus.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202404292033198_add_messageclass.cs" />
+    <Compile Include="Migrations\202404292033198_add_messageclass.Designer.cs">
+      <DependentUpon>202404292033198_add_messageclass.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -130,6 +134,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202404261928302_mig_addheadingstaus.resx">
       <DependentUpon>202404261928302_mig_addheadingstaus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202404292033198_add_messageclass.resx">
+      <DependentUpon>202404292033198_add_messageclass.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />

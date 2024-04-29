@@ -18,5 +18,17 @@ namespace mvc_projecet.Controllers
             var contactValues = cm.GetList();
             return View(contactValues);
         }
+
+        public ActionResult GetContactDetails(int id)
+        {
+            var contactValues = cm.GetByID(id);
+            return View(contactValues);
+        }
+
+        public PartialViewResult MessageListMenu()
+        {
+            return PartialView();
+        }
+
     }
 }
