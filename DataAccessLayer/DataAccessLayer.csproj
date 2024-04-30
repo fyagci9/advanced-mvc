@@ -56,6 +56,7 @@
     <Compile Include="Abstract\IContactDal.cs" />
     <Compile Include="Abstract\IContentDal.cs" />
     <Compile Include="Abstract\IHeadingDal.cs" />
+    <Compile Include="Abstract\IMessageDal.cs" />
     <Compile Include="Abstract\IRepository.cs" />
     <Compile Include="Abstract\IWriterDal.cs" />
     <Compile Include="Concrete\Context.cs" />
@@ -67,6 +68,7 @@
     <Compile Include="EntitiyFramework\EfContactDal.cs" />
     <Compile Include="EntitiyFramework\EfContentDal.cs" />
     <Compile Include="EntitiyFramework\EfHeadingDal.cs" />
+    <Compile Include="EntitiyFramework\EfMessageDal.cs" />
     <Compile Include="EntitiyFramework\EfWriterDal.cs" />
     <Compile Include="Migrations\202403202033363_mig1.cs" />
     <Compile Include="Migrations\202403202033363_mig1.designer.cs">
