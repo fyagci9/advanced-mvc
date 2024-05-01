@@ -7,7 +7,8 @@
     "\\mvc-projecet\\Views\\AdminCategory",
     "\\mvc-projecet\\Views\\Contact",
     "\\mvc-projecet\\Views\\Content",
-    "\\mvc-projecet\\Views\\Heading"
+    "\\mvc-projecet\\Views\\Heading",
+    "\\mvc-projecet\\Views\\Message"
   ],
   "SelectedNode": "\\mvc-project.sln",
   "PreviewInSolutionExplorer": false
