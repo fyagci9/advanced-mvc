@@ -1,9 +1,7 @@
 ﻿using BussinesLayer.Concrete;
+using BussinesLayer.ValidationRules;
 using DataAccessLayer.EntitiyFramework;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+using FluentValidation.Results;
 using System.Web.Mvc;
 using System.Web.Services.Description;
 
@@ -12,6 +10,7 @@ namespace mvc_projecet.Controllers
     public class MessageController : Controller
     {
         MessageManager mm = new MessageManager(new EfMessageDal());
+        MessagesValidator messagevalidator = new MessagesValidator();
         public ActionResult Inbox()
         {
             var messageList =  mm.GetListInbox();
@@ -21,6 +20,19 @@ namespace mvc_projecet.Controllers
         {
             var messageList = mm.GetListSendbox();
             return View(messageList);
+        }
+
+       
+        public ActionResult GetInboxMessageDetails(int id)
+        {
+            var values = mm.GetByID(id);
+            return View(values);
+        }
+
+        public ActionResult GetSendboxMessageDetails(int id)
+        {
+            var values = mm.GetByID(id);
+            return View(values);
         }
 
         [HttpGet]
@@ -33,6 +45,20 @@ namespace mvc_projecet.Controllers
         public ActionResult newMessage( Message p)
         {
 
+            ValidationResult results = messagevalidator.Validate(p);
+
+            if (results.IsValid)
+            {
+                mm.messageAdd(p);
+                return RedirectToAction("Sendbox");
+            }
+            else
+            {
+                foreach (var item in results.Errors)
+                {
+                    ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
+                }
+            }
             return View();
         }
     }
