@@ -2,8 +2,11 @@
 using BussinesLayer.ValidationRules;
 using DataAccessLayer.EntitiyFramework;
 using FluentValidation.Results;
+using System;
 using System.Web.Mvc;
 using System.Web.Services.Description;
+using Message = EntityLayer.Concrete.Message;
+
 
 namespace mvc_projecet.Controllers
 {
@@ -49,6 +52,7 @@ namespace mvc_projecet.Controllers
 
             if (results.IsValid)
             {
+                p.MessageDate = DateTime.Parse(DateTime.Now.ToShortDateString());
                 mm.messageAdd(p);
                 return RedirectToAction("Sendbox");
             }
