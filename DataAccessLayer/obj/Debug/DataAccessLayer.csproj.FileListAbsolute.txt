@@ -23,3 +23,4 @@ C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Mig
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addheadingstaus.resources
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.add_messageclass.resources
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addimage_file.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_adminclass.resources

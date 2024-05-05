@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\firat\\Desktop\\mvc-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\views\\gallery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\views\\gallery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F50457F-B563-45F7-849A-9C177BAF6DEB}|EntityLayer\\EntityLayer.csproj|c:\\users\\firat\\desktop\\mvc-project\\entitylayer\\concrete\\imagefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F50457F-B563-45F7-849A-9C177BAF6DEB}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\imagefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|c:\\users\\firat\\desktop\\mvc-project\\mvc-projecet\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{696FAEF3-B1CC-4FBC-8891-2572C3D21D70}|mvc-projecet\\mvc-project.csproj|solutionrelative:mvc-projecet\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +26,58 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GalleryController.cs",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\GalleryController.cs",
-              "RelativeDocumentMoniker": "mvc-projecet\\Controllers\\GalleryController.cs",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\GalleryController.cs",
-              "RelativeToolTip": "mvc-projecet\\Controllers\\GalleryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T13:56:29.575Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Gallery\\Index.cshtml",
-              "RelativeDocumentMoniker": "mvc-projecet\\Views\\Gallery\\Index.cshtml",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Gallery\\Index.cshtml",
-              "RelativeToolTip": "mvc-projecet\\Views\\Gallery\\Index.cshtml",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF8AAAANAAAA",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc-projecet\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "mvc-projecet\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T13:56:46.803Z",
+              "WhenOpened": "2024-05-05T20:13:34.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\AdminCategoryController.cs",
+              "RelativeDocumentMoniker": "mvc-projecet\\Controllers\\AdminCategoryController.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\AdminCategoryController.cs",
+              "RelativeToolTip": "mvc-projecet\\Controllers\\AdminCategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:01:13.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ImageFile.cs",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\EntityLayer\\Concrete\\ImageFile.cs",
-              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\ImageFile.cs",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\EntityLayer\\Concrete\\ImageFile.cs",
-              "RelativeToolTip": "EntityLayer\\Concrete\\ImageFile.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "mvc-projecet\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "mvc-projecet\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T13:59:32.906Z",
+              "WhenOpened": "2024-05-05T19:10:34.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "mvc-projecet\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "mvc-projecet\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AQIAAJwAAAAAAAAAAAAAAKEAAAAAAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc-projecet\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\mvc-project\\mvc-projecet\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "mvc-projecet\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T13:43:24.628Z",
+              "WhenOpened": "2024-05-05T20:00:32.125Z",
               "EditorCaption": ""
             },
             {
