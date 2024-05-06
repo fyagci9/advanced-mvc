@@ -4,11 +4,11 @@
     "\\mvc-projecet",
     "\\mvc-projecet\\Controllers",
     "\\mvc-projecet\\Views",
-    "\\mvc-projecet\\Views\\AdminCategory",
     "\\mvc-projecet\\Views\\Contact",
     "\\mvc-projecet\\Views\\Content",
     "\\mvc-projecet\\Views\\Gallery",
     "\\mvc-projecet\\Views\\Heading",
+    "\\mvc-projecet\\Views\\Login",
     "\\mvc-projecet\\Views\\Message"
   ],
   "SelectedNode": "\\mvc-project.sln",
