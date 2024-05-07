@@ -2,14 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\mvc-projecet",
-    "\\mvc-projecet\\Controllers",
     "\\mvc-projecet\\Views",
     "\\mvc-projecet\\Views\\Contact",
     "\\mvc-projecet\\Views\\Content",
     "\\mvc-projecet\\Views\\Gallery",
     "\\mvc-projecet\\Views\\Heading",
     "\\mvc-projecet\\Views\\Login",
-    "\\mvc-projecet\\Views\\Message"
+    "\\mvc-projecet\\Views\\Message",
+    "\\mvc-projecet\\Views\\Shared"
   ],
   "SelectedNode": "\\mvc-project.sln",
   "PreviewInSolutionExplorer": false
