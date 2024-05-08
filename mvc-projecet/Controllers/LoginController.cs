@@ -39,5 +39,11 @@ namespace mvc_projecet.Controllers
             }
 
         }
+
+        public ActionResult addAdmin()
+        {
+            return View(); 
+        }
+
     }
 }
