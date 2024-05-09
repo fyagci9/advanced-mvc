@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\BussinesLayer",
-    "\\BussinesLayer\\Abstract",
     "\\BussinesLayer\\Concrete",
     "\\mvc-projecet",
     "\\mvc-projecet\\Views",
     "\\mvc-projecet\\Views\\Heading",
     "\\mvc-projecet\\Views\\Login",
     "\\mvc-projecet\\Views\\Message",
-    "\\mvc-projecet\\Views\\Shared"
+    "\\mvc-projecet\\Views\\Shared",
+    "\\mvc-projecet\\Views\\WriterPanel"
   ],
-  "SelectedNode": "\\BussinesLayer\\Abstract\\ILoginService.cs",
+  "SelectedNode": "\\mvc-project.sln",
   "PreviewInSolutionExplorer": false
 }
