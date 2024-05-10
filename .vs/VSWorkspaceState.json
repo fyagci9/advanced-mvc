@@ -9,7 +9,8 @@
     "\\mvc-projecet\\Views\\Login",
     "\\mvc-projecet\\Views\\Message",
     "\\mvc-projecet\\Views\\Shared",
-    "\\mvc-projecet\\Views\\WriterPanel"
+    "\\mvc-projecet\\Views\\WriterPanel",
+    "\\mvc-projecet\\Views\\WriterPanelMessage"
   ],
   "SelectedNode": "\\mvc-project.sln",
   "PreviewInSolutionExplorer": false
