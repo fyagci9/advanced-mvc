@@ -228,3 +228,7 @@ C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\ru\Microsoft.VisualStudio.Se
 C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
 C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
 C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\PagedList.dll
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\PagedList.Mvc.dll
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\PagedList.xml
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\PagedList.Mvc.xml
