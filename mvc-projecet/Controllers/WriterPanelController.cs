@@ -95,5 +95,11 @@ namespace mvc_projecet.Controllers
 
 
         }
+
+        public ActionResult AllHeading()
+        {
+            var headings = hm.GetList();
+            return View(headings);
+        }
     }
 }
