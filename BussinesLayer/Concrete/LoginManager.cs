@@ -1,5 +1,6 @@
 ﻿using BussinesLayer.Abstract;
 using DataAccessLayer.Abstract;
+using DataAccessLayer.EntitiyFramework;
 using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -11,21 +12,16 @@ namespace BussinesLayer.Concrete
 {
     public class LoginManager:ILoginService
     {
-        ILoginDal _loginDal;
+        IWriterDal _writerDal;
 
-        public LoginManager(ILoginDal loginDal)
+        public LoginManager(IWriterDal writerDal)
         {
-            _loginDal = loginDal;
+            _writerDal = writerDal;
         }
 
-        public void adminAdd(Admin admin)
+        public Writer GetWriter(string username, string password)
         {
-            throw new NotImplementedException();
-        }
-
-        List<Admin> ILoginService.GetList()
-        {
-            throw new NotImplementedException();
+            return _writerDal.Get(x => x.WriterMail == username && x.WriterPassword == password);
         }
     }
 }

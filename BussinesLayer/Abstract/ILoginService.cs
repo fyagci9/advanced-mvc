@@ -9,8 +9,8 @@ namespace BussinesLayer.Abstract
 {
     public interface ILoginService
     {
-        List<Admin> GetList();
-        void adminAdd(Admin admin);
+       Writer GetWriter(string username, string password);
+        
 
       
     }
