@@ -13,5 +13,10 @@ namespace mvc_projecet.Controllers
         {
             return View();
         }
+        [AllowAnonymous]
+        public ActionResult HomePage()
+        {
+            return View();
+        }
     }
 }

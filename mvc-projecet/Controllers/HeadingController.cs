@@ -85,5 +85,10 @@ namespace mvc_project.Controllers
             
             
         }
+        public ActionResult HeadingReport()
+        {
+            var headingValues = hm.GetList();
+            return View(headingValues);
+        }
     }
 }

@@ -228,3 +228,7 @@ C:\Users\firat\Desktop\mvc-project\mvc-projecet\obj\Release\mvc-project.csproj.C
 C:\Users\firat\Desktop\mvc-project\mvc-projecet\obj\Release\mvc-proj.ECAD69AF.Up2Date
 C:\Users\firat\Desktop\mvc-project\mvc-projecet\obj\Release\mvc-projecet.dll
 C:\Users\firat\Desktop\mvc-project\mvc-projecet\obj\Release\mvc-projecet.pdb
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\PagedList.dll
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\PagedList.Mvc.dll
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\PagedList.xml
+C:\Users\firat\Desktop\mvc-project\mvc-projecet\bin\PagedList.Mvc.xml

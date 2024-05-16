@@ -15,3 +15,12 @@ C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.c
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAcce.E67BD773.Up2Date
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.dll
 C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.mig_writer_edit.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.mig_writertitle_add.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.mig_imagesizechange.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.mig_writer_statusadd.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.mig_addcontentstaus.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.mig_addheadingstaus.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.add_messageclass.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.mig_addimage_file.resources
+C:\Users\firat\Desktop\mvc-project\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.mig_add_adminclass.resources

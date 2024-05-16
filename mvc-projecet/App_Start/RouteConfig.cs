@@ -16,7 +16,7 @@ namespace mvc_projecet
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "AdminCategory", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Home", action = "HomePage", id = UrlParameter.Optional }
             );
         }
     }
